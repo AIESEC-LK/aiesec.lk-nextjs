@@ -28,10 +28,10 @@ const RootLayout = () => {
         {isLoading && isHome ? (
           <SplashScreen finishLoading={()=>setIsLoading(false)}/>
           ): (
-            <div>
-        <Nav />
+        <div>
+          <Nav />
         <h2>AIESEC.lk Rewamp</h2>
-        <Home/>
+          <Home/>
       </div>
           )
         }
