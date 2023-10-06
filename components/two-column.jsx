@@ -81,7 +81,7 @@ const Home = () => {
         <div className="w-full bg-white p-8 text-black font-bold font-lato text-center">
           <h2
             style={column3Styles}
-            className="mx-4 mt-4 mb-4 ml-4 mr-4 text-blue text-center"
+            className="mx-4 mt-4 mb-4 ml-4 mr-4 text-aiesec-blue text-center"
           >
             Our Local Entities
           </h2>
@@ -159,10 +159,11 @@ const Home = () => {
         <div className="container mx-auto py-8">
           <h2
             style={column3Styles}
-            className="mx-4 mt-4 mb-4 ml-4 mr-4 text-blue text-center"
+            className="mx-4 mt-4 mb-4 ml-4 mr-4 text-aiesec-blue text-center"
           >
             Our Opportunities
           </h2>
+          <br />
           <div className="flex justify-center">
             {/* Card 1 */}
             <div className="w-1/3 mx-2">
@@ -173,7 +174,7 @@ const Home = () => {
                 </div>
                 <div className="text-black text-center">
                   <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy. Lorem Ipsum has been the industry's standard dummy </p>
-                  <button className="bg-white text-blue py-2 px-4 rounded-md border-blue border-2 mx-4 mt-4 mb-4 ml-4 mr-4">
+                  <button className="bg-white text-aiesec-blue py-2 px-4 rounded-md border-blue border-2 mx-4 mt-4 mb-4 ml-4 mr-4">
                     Learn More
                   </button>
                 </div>
