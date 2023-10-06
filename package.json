@@ -10,9 +10,16 @@
   },
   "dependencies": {
     "animejs": "^3.2.1",
-    "next": "latest",
+    "cloudinary-video-player": "^1.9.16",
+    "flowbite": "^1.8.1",
+    "flowbite-react": "^0.6.3",
+    "next": "^13.5.4",
+    "next-videos": "^1.4.1",
     "react": "latest",
-    "react-dom": "latest"
+    "react-countup": "^6.4.2",
+    "react-dom": "latest",
+    "react-visibility-sensor": "^5.1.1",
+    "typewriter-effect": "^2.21.0"
   },
   "devDependencies": {
     "autoprefixer": "latest",

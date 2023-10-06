@@ -5,9 +5,9 @@ import '@styles/globals.css';
 
 function Nav() {
   return (
-    <nav className=' grid grid-cols-3 h-16 bg-white mx-14'>
+    <nav className=' grid grid-cols-3 h-20 bg-white fixed z-50 w-full'>
       <div className='flex md:flex-row  flex-col justify-center items-center'>
-        <Image src={AiesecLogo} alt="AIESEC Logo" width={170} className='hidden lg:block items-center mt-5'/>
+        <Image src={AiesecLogo} alt="AIESEC Logo" width={170} className='hidden lg:block items-center mt-3'/>
         {/* hidden lg:block */}
         
       </div>
