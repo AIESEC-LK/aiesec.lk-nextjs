@@ -11,7 +11,6 @@ function PartnerListNew() {
         <hr className="mb-4" />
         <div className="md:flex justify-between">
         <div className="justify-center flex flex-wrap gap-x-12 gap-y-12 container mx-auto">
-          {/* partnercard */}
           <Link href="/partner-portal/Twinery" passhref="true" className="px-6">
             <div
               className="h-72 w-64 py-2 px-8 bg-white rounded-2xl transition duration-300 ease-in-out
