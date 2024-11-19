@@ -2,27 +2,36 @@
 @tailwind components;
 @tailwind utilities;
 
-.testimonial{
-    background-color: #f5f5f5;
-    padding: 50px 0;
+.testimonial {
+	background-color: #f5f5f5;
+	padding: 50px 0;
 }
 
-.signup-banner{
-    /* background-image: url('/assets/images/products/igv/Rectangle_3844.png'); */
-    background-image: url('/assets/images/products/signup-banner.png');
-    background-size: cover;
-    background-position:right;
-    padding-top: 22%;
-    width: 100vw;
-    height: 0;
-  }
-
-  @media (max-width: 640px) {
-    .signup-banner {
-        height: 30vh;
-    }
+.signup-banner {
+	/* background-image: url('/assets/images/products/igv/Rectangle_3844.png'); */
+	background-image: url("/assets/images/products/signup-banner.png");
+	background-size: cover;
+	background-position: right;
+	padding-top: 22%;
+	width: 100vw;
+	height: 0;
 }
 
-body, html {
-    overflow-x: hidden;
+@media (max-width: 640px) {
+	.signup-banner {
+		height: 30vh;
+	}
+}
+
+body,
+html {
+	overflow-x: hidden;
+}
+
+.react-select__input {
+	--tw-ring-color: transparent !important;
+}
+
+#signup {
+	scroll-margin-top: 100px;
 }

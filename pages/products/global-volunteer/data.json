@@ -1,203 +1,201 @@
 [
-    {
-        "basicdetails": [
-            {
-            "title": "Global Volunteer",
-            "color": "global-volunteer",
-            "path": "/assets/images/products/igv/Rectangle_3844.png",
-            "content": "Global Volunteer is a cross-cultural experience for youth (age 18 – 30) who want to gain personal development and leave an impact on the world.",
-            "logo": "/assets/images/products/logos/volunteer-logo.png",
-            "duration": "6-8 weeks",
-            "organization": "NGOs",
-            "url":"https://www.aiesec.lk/global-volunteer/"
-            
-            }
-        ]
-    },
-    
-    
-    {
-        "testimonials":[
-            {
-                "id":1,
-                "video": "Jo9qj8r8SE8"
-            },
-            {
-                "id":2,
-                "video": "kWI9awY7iEo"
-            }
-        ]
-    },
-    
-    {
-        "ourprojects":[
-            {
-                "id":1,
-                "title": "Explorer",
-                "path": "/assets/images/projects/explorer.png"
-            },
-            {
-                "id":2,
-                "title": "Happy Bus",
-                "path":"/assets/images/projects/happy bus.png"
-            },
-            {
-                "id":3,
-                "title": "Fingerprints",
-                "path":"/assets/images/projects/fingerprint.png"
-            },
-            {
-                "id":4,
-                "title": "Eco City",
-                "path":"/assets/images/projects/eco city.png"
-            }
-        ]
-    },
-    
-    {
-        "whyvolunteer":[
-            {
-                "index":1,
-                "leftimage":[
-                    {
-                        "path":"/assets/images/products/igv/Rectangle_3861.png",
-                        "tick":"/assets/images/products/igv/checked.png"
-                    }
-                ]
-            },
-            {
-                "index":2,
-                "points":[
-                    {
-                        "id":1,
-                        "content":"Affordable cost"
-                    },
-                    {
-                        "id":2,
-                        "content":"Internationally recognized certificate from AIESEC"
-                    },
-                    {
-                        "id":3,
-                        "content":"Lead an international team"
-                    },
-                    {
-                        "id":4,
-                        "content":"Accommodation and food (Provided and covered in most countries)"
-                    },
-                    {
-                        "id":5,
-                        "content":"A local volunteer to support you with application process and outgoing preparation"
-                    },
-                    {
-                        "id":6,
-                        "content":"A local volunteer in the host country to help you with project preparation"
-                    },
-                    {
-                        "id":7,
-                        "content":"Access to leadership development assessment tools"
-                    },
-                    {
-                        "id":8,
-                        "content":"Online and offline support and program guide"
-                    },
-                    {
-                        "id":9,
-                        "content":"Support with VISA documents and insurance"
-                    },
-                    {
-                        "id":10,
-                        "content":"Outgoing preparation sessions before the program"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "signupbanner":[
-            {
-                "id":1,
-                "path":"/assets/images/products/talent/TalentBanner.png",
-                "content":"Global Talent is an internship experience for young people aiming towards professional career development in a global setting.",
-                "url":"https://www.aiesec.lk/global-volunteer/",
-                "color":"global-volunteer"
-            }
-        ]
-    },
-    {   
-        "ourdestination":[
-            {
-                "id":1,
-                "countryname": "Gahana",
-                "path": "/assets/images/Destinations/Ghana.jpg"
-            },
-            {
-                "id":2,
-                "countryname": "Brazil",
-                "path": "/assets/images/Destinations/Brazil.jpg"
-            },
-            {
-                "id":3,
-                "countryname": "Serbia",
-                "path": "/assets/images/Destinations/Serbia.jpg"
-            },
-            {
-                "id":4,
-                "countryname": "Uganda",
-                "path": "/assets/images/Destinations/Uganda.jpg"
-            }
-        ]
-    },
-    {
-        "whyproducts": [
-            {
-            "id":1,
-            "title": "Cross Cultural Experience",
-            "image": "/assets/images/products/volunteer/CrossCulture.png"
-        },
-        {
-            "id":2,
-            "title": "Contribution Towards the SDGs",
-            "image": "/assets/images/products/volunteer/SDGs.png"
-        },
-        {
-            "id":3,
-            "title": "Personal Development",
-            "image": "/assets/images/products/volunteer/Personal growth.png"
-        }
-        ]
-    },
-    {
-        "process": [
-            {
-                "id": 1,
-                "title": "Sign Up",
-                "description": "Sign up to create your account and access our opportunities. It's free!",
-                "image":"/assets/images/products/volunteer/Signup.png"
-            },
-            {
-                "id": 2,
-                "title": "Apply",
-                "description": "Fill out your profile and apply for opportunities.",
-                "image":"/assets/images/products/volunteer/Apply.png"
-            },
-            {
-                "id": 3,
-                "title": "Selection",
-                "description": "You will be contacted for an interview by the compan",
-                "image":"/assets/images/products/volunteer/Selection.png"
-            },
-            {
-                "id": 4,
-                "title": "Approved",
-                "description": "Once the interview is completed successfully, pay the AIESEC program registration fee to get approved.",
-                "image":"/assets/images/products/volunteer/Approved.png"
-            },
-            {
-                "id": 5,
-                "title": "Let’s Go",
-                "description": "AIESEC will now support in visa, departure and experience abroad.",
-                "image":"/assets/images/products/volunteer/Lets-go.png"
-            }
-        ]
-    }
+	{
+		"basicdetails": [
+			{
+				"title": "Global Volunteer",
+				"color": "global-volunteer",
+				"path": "/assets/images/products/igv/Rectangle_3844.png",
+				"content": "Global Volunteer is a cross-cultural experience for youth (age 18 – 30) who want to gain personal development and leave an impact on the world.",
+				"logo": "/assets/images/products/logos/volunteer-logo.png",
+				"duration": "6-8 weeks",
+				"organization": "NGOs",
+				"url": "#signup"
+			}
+		]
+	},
+
+	{
+		"testimonials": [
+			{
+				"id": 1,
+				"video": "Jo9qj8r8SE8"
+			},
+			{
+				"id": 2,
+				"video": "kWI9awY7iEo"
+			}
+		]
+	},
+
+	{
+		"ourprojects": [
+			{
+				"id": 1,
+				"title": "Explorer",
+				"path": "/assets/images/projects/explorer.png"
+			},
+			{
+				"id": 2,
+				"title": "Happy Bus",
+				"path": "/assets/images/projects/happy bus.png"
+			},
+			{
+				"id": 3,
+				"title": "Fingerprints",
+				"path": "/assets/images/projects/fingerprint.png"
+			},
+			{
+				"id": 4,
+				"title": "Eco City",
+				"path": "/assets/images/projects/eco city.png"
+			}
+		]
+	},
+
+	{
+		"whyvolunteer": [
+			{
+				"index": 1,
+				"leftimage": [
+					{
+						"path": "/assets/images/products/igv/Rectangle_3861.png",
+						"tick": "/assets/images/products/igv/checked.png"
+					}
+				]
+			},
+			{
+				"index": 2,
+				"points": [
+					{
+						"id": 1,
+						"content": "Affordable cost"
+					},
+					{
+						"id": 2,
+						"content": "Internationally recognized certificate from AIESEC"
+					},
+					{
+						"id": 3,
+						"content": "Lead an international team"
+					},
+					{
+						"id": 4,
+						"content": "Accommodation and food (Provided and covered in most countries)"
+					},
+					{
+						"id": 5,
+						"content": "A local volunteer to support you with application process and outgoing preparation"
+					},
+					{
+						"id": 6,
+						"content": "A local volunteer in the host country to help you with project preparation"
+					},
+					{
+						"id": 7,
+						"content": "Access to leadership development assessment tools"
+					},
+					{
+						"id": 8,
+						"content": "Online and offline support and program guide"
+					},
+					{
+						"id": 9,
+						"content": "Support with VISA documents and insurance"
+					},
+					{
+						"id": 10,
+						"content": "Outgoing preparation sessions before the program"
+					}
+				]
+			}
+		]
+	},
+	{
+		"signupbanner": [
+			{
+				"id": 1,
+				"path": "/assets/images/products/talent/TalentBanner.png",
+				"content": "Global Talent is an internship experience for young people aiming towards professional career development in a global setting.",
+				"url": "https://www.aiesec.lk/global-volunteer/",
+				"color": "global-volunteer"
+			}
+		]
+	},
+	{
+		"ourdestination": [
+			{
+				"id": 1,
+				"countryname": "Gahana",
+				"path": "/assets/images/Destinations/Ghana.jpg"
+			},
+			{
+				"id": 2,
+				"countryname": "Brazil",
+				"path": "/assets/images/Destinations/Brazil.jpg"
+			},
+			{
+				"id": 3,
+				"countryname": "Serbia",
+				"path": "/assets/images/Destinations/Serbia.jpg"
+			},
+			{
+				"id": 4,
+				"countryname": "Uganda",
+				"path": "/assets/images/Destinations/Uganda.jpg"
+			}
+		]
+	},
+	{
+		"whyproducts": [
+			{
+				"id": 1,
+				"title": "Cross Cultural Experience",
+				"image": "/assets/images/products/volunteer/CrossCulture.png"
+			},
+			{
+				"id": 2,
+				"title": "Contribution Towards the SDGs",
+				"image": "/assets/images/products/volunteer/SDGs.png"
+			},
+			{
+				"id": 3,
+				"title": "Personal Development",
+				"image": "/assets/images/products/volunteer/Personal growth.png"
+			}
+		]
+	},
+	{
+		"process": [
+			{
+				"id": 1,
+				"title": "Sign Up",
+				"description": "Sign up to create your account and access our opportunities. It's free!",
+				"image": "/assets/images/products/volunteer/Signup.png"
+			},
+			{
+				"id": 2,
+				"title": "Apply",
+				"description": "Fill out your profile and apply for opportunities.",
+				"image": "/assets/images/products/volunteer/Apply.png"
+			},
+			{
+				"id": 3,
+				"title": "Selection",
+				"description": "You will be contacted for an interview by the compan",
+				"image": "/assets/images/products/volunteer/Selection.png"
+			},
+			{
+				"id": 4,
+				"title": "Approved",
+				"description": "Once the interview is completed successfully, pay the AIESEC program registration fee to get approved.",
+				"image": "/assets/images/products/volunteer/Approved.png"
+			},
+			{
+				"id": 5,
+				"title": "Let’s Go",
+				"description": "AIESEC will now support in visa, departure and experience abroad.",
+				"image": "/assets/images/products/volunteer/Lets go.png"
+			}
+		]
+	}
 ]

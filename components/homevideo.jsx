@@ -1,6 +1,5 @@
 import MultiText from "@components/Micro_components/Multitext";
 import React, { useEffect, useRef } from "react";
-import Video from "next-video";
 
 
 function HomeVideo() {
