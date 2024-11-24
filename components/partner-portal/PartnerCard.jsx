@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const PartnerCard = ({id, name, logo}) => {
   return (
-    <Link href={`partner-portal/Unilever}`} as="a" passhref="true">
+    <Link href={`partner-portal/Unilever`} as="a" passhref="true">
       {/* <Link href={`partner-portal/partner/${id}`} as="a" passhref="true"></Link> */}
   
       <div
