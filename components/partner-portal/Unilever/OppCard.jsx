@@ -49,7 +49,8 @@ function OppCard({ OppCard }) {
             </div>
             <div className="font-normal text-md pb-2 text-aiesec-dark-grey"></div>
             <div className="mt-1 text-center">
-              <Link href={opportunity.link} target="_blank">
+              {/* temporary fix - adding google form link here, change to proper method later */}
+              <Link href={"https://forms.gle/yhAWjSHna1FUVgzMA"} target="_blank">
                 <Button
                   className="px-2 mx-auto font-bold bg-transparent text-black border border-black hover:scale-105 transition ease-in hover:bg-black hover:text-white"
                   size="sm"
