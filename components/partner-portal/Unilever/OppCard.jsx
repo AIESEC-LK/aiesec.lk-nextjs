@@ -30,11 +30,13 @@ function OppCard({ OppCard }) {
 
                 <p className="text-left">{opportunity.mode}</p>
               </div>
-              {opportunity.deadline && (
-                <p className="text-left">
-                  Application Deadline: <span>{opportunity.deadline}</span>
-                </p>
-              )}
+              <div>
+                {opportunity.deadline && (
+                  <p className="text-left">
+                    Application Deadline: <span>{opportunity.deadline}</span>
+                  </p>
+                )}
+              </div>
             </div>
             <hr />
             <div className="text-left">
