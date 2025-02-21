@@ -37,13 +37,13 @@ function PartnerListNew() {
               shadow-aiesec-mid-grey shadow-2xl hover:shadow-gray-200 hover:shadow-2xl hover:scale-105 text-aiesec-dark-grey hover:text-aiesec-blue"
             >
               <Image
-                src="/assets/images/partners/national/Emerald/emerald-logo.webp"
-                width={500}
-                height={500}
+                src="/assets/images/partners/national/Emerald/Emarald.png"
+                width={400}
+                height={400}
                 alt="Twinery-Logo"
-                className="pt-14"
+                className="pt-2"
               />
-              <h2 className="text-2xl font-semibold text-center px-4 mb-8 mt-16">
+              <h2 className="text-2xl font-semibold text-center px-4 mb-10 mt-3">
                 Emerald
               </h2>
             </div>
