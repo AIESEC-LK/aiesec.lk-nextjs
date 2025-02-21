@@ -5,7 +5,7 @@ import img1 from "@public/assets/images/partners/national/EFL Global Sri Lanka -
 import img2 from "@public/assets/images/partners/national/DIMO - National Partner_page-0001-min.jpg";
 import img3 from "@public/assets/images/partners/national/Innovate - National Partner-min.png";
 import img4 from "@public/assets/images/partners/national/unilever/croped-unilever-logo.png";
-import emerald from "@public/assets/images/partners/national/emerald (2).png";
+import emerald from "@public/assets/images/partners/national/Emerald/Emarald.png";
 import img5 from "@public/assets/images/partners/global/3mywAr3TX9X99bbv5pyqYCp6-min.png";
 import img6 from "@public/assets/images/partners/global/1489406725-min.png";
 import img7 from "@public/assets/images/partners/global/1489438110-min.png";
@@ -29,7 +29,7 @@ const Partners = () => {
     { url: img1, width: 70, name: "EFL Global Sri Lanka" },
     { url: img2, width: 200, name: "DIMO" },
     { url: img3, width: 80, name: "Innovate" },
-    { url: emerald, width: 80, name: "Emerald" },
+    { url: emerald, width: 100, name: "Emerald" },
   ];
 
   const iconset2 = [{ url: img4, width: 100, name: "Unilever" }];
@@ -70,9 +70,9 @@ const Partners = () => {
                 <Image
                   src={icon.url}
                   alt={icon.name}
-                  className="mx-auto w-18 md:h-16 mb-2 top-0"
+                  className="mx-auto w-18 md:h-20 mb-2 top-0"
                   width={icon.width}
-                  height={400}
+                  height={500}
                 />
               </div>
             ))}

@@ -1,64 +1,42 @@
 [
   {
     "id": 1,
-    "title": "Junior Executive Human Resources",
-    "deadline": "",
+    "title": "Customer Care - Intern",
+    "deadline": "28.02.2025",
     "mode": "",
     "jd": [
-      "Bachelor's degree or professional qualification in Human Resources.",
-      "Minimum of two years of relevant work experience.",
-      "Proficiency in MS Office applications and Human Resource Information Systems (HRIS).",
-      "Excellent communication skills in both English and Sinhala.",
-      "Strong attention to detail and ability to maintain accuracy in HR documentation and records.",
-      "Demonstrated ability to work collaboratively in a team environment and support HR initiatives effectively"
+      "Assist in responding to customer inquiries via email, phone, or chat.",
+      "Help resolve customer issues and complaints professionally.",
+      "Maintain customer records and document interactions.",
+      "Support the customer care team with administrative tasks.",
+      "Ensure customer satisfaction by providing prompt and helpful responses."
     ],
-    "link": "https://forms.gle/wDiH2G8o9Bnx4aB87"
+    "requirements": [
+      "Currently pursuing or recently graduated with a degree in Business, Communications, or a related field.",
+      "Good communication and problem-solving skills.",
+      "Ability to work independently and in a team."
+    ],
+    "link": "https://forms.gle/3hL3KJH1gWwRYdPz6"
   },
   {
     "id": 2,
-    "title": "Intern - Marketing",
-    "deadline": "",
+    "title": "Marketing - Intern",
+    "deadline": "28.02.2025",
     "mode": "",
     "jd": [
-      "Currently enrolled in a Bachelor's degree program in Marketing, Business Administration, or related field.",
-      "Strong passion for marketing and eagerness to learn about various marketing strategies and tactics.",
-      "Familiarity with social media platforms and digital marketing concepts is a plus.",
-      "Ability to work well in a fast-paced environment and collaborate effectively with team members.",
-      "Proactive attitude with a willingness to take on new challenges and contribute fresh ideas to marketing campaigns.",
-      "Availability to work 40 hours per week for a six-month internship period."
+      "Assist the Brand Manager with marketing tasks and project coordination.",
+      "Support in the planning and execution of events and promotions.",
+      "Help with market research and competitor analysis.",
+      "Contribute to content creation for marketing materials.",
+      "Coordinate with different teams to ensure smooth implementation of marketing activities.",
+      "Assist in tracking marketing performance and organizing marketing reports."
     ],
-    "link": "https://forms.gle/wDiH2G8o9Bnx4aB87"
-  },
-  {
-    "id": 3,
-    "title": "Intern - Design",
-    "deadline": "",
-    "mode": "",
-    "jd": [
-      "Currently enrolled in a Bachelor's degree program in Fashion Design, Textile Design, Graphic Design, or related field.",
-      "Strong passion for design, particularly in the field of fashion.",
-      "Proficiency in design software such as Adobe Illustrator, Photoshop, and/or other relevant design tools.",
-      "Ability to conceptualize and create innovative designs for clothing, accessories, or related fashion items.",
-      "Strong sketching and illustration skills..",
-      "Availability to work 40 hours per week for a six-month internship period."
+    "requirements": [
+      "Currently pursuing or recently graduated with a degree in Marketing, Business, or a related field.",
+      "Strong organizational and multitasking skills.",
+      "Good communication skills and attention to detail.",
+      "Ability to work both independently and as part of a team."
     ],
-    "link": "https://forms.gle/wDiH2G8o9Bnx4aB87"
-  },
-  {
-    "id": 4,
-    "title": "Visual Merchandising",
-    "deadline": "",
-    "mode": "",
-    "jd": [
-      "Currently enrolled in a Bachelor's degree program in Visual Merchandising, Retail Management, Fashion Design, Marketing, Business, or related field.",
-      "Strong interest in visual merchandising and a passion for creating visually appealing displays.",
-      "Creative flair and ability to conceptualize and execute innovative display ideas.",
-      "Knowledge of retail and consumer behavior principles.",
-      "Proficiency in design software such as Adobe Illustrator, Photoshop, and/or other relevant design tools is a plus.",
-      "Strong communication and interpersonal skills.",
-      "Ability to work well in a team environment and collaborate effectively with store personnel.",
-      "Availability to work 40 hours per week for a six-month internship period."
-    ],
-    "link": "https://forms.gle/wDiH2G8o9Bnx4aB87"
+    "link": "https://forms.gle/3hL3KJH1gWwRYdPz6"
   }
 ]
