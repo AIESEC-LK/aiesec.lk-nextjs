@@ -173,7 +173,7 @@ export async function getServerSideProps(context) {
 		headers: {
 			accept: "application/json, text/plain, */*, application/json",
 			"accept-language": "en-US,en;q=0.9",
-			authorization: "cb2028d9b0bf17ba331951626a444ee036d856b18f499480b91538c69ea65084",
+			authorization: "ArA7-7UZV6QGhqnouAfwZSA49g4pxNxmRxt0giHjBxA",
 			"content-type": "application/json",
 			credentials: "include",
 		},
@@ -184,6 +184,7 @@ export async function getServerSideProps(context) {
 	let otherAlignment;
 	const alignmentData = (await fetchLCAlignments.json()).data.lcAlignments
 		.sort((a, b) => a.id - b.id)
+
 		.map((alignment) => ({
 			name: alignment.keywords,
 			id: alignment.id,
@@ -196,7 +197,7 @@ export async function getServerSideProps(context) {
 			}
 			return true;
 		});
-	// alignmentData.push(otherAlignment);
-	// console.log(alignmentData);
+	alignmentData.push(otherAlignment);
+	console.log(alignmentData);
 	return { props: { alignmentData } };
 }
