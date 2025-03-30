@@ -12,7 +12,7 @@ export default function Counter(){
     return(
         <section className=" mt-48 w-screen">
             <div className=" relative flex align-middle justify-center">
-                <Image src={banner1} className=" w-screen z-0 md:visible invisible"/>
+                <Image src={banner1} alt="AIESEC Event Banner" className="w-screen z-0 md:visible invisible" />
                 <div className=" absolute z-10 w-3/4 bg-aiesec-blue sm:h-52 h-fit rounded-xl sm:-top-32 -top-40">
                     <div className=" grid md:grid-cols-4 md:text-lg text-sm text-white md:m-14 m-5 grid-cols-1 grid-rows-4">
                         <div className=" flex justify-center align-middle sm:mb-0 mb-4">
